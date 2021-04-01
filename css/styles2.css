@@ -1,0 +1,104 @@
+body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+.navbar {
+  background-color: #dbf6e9;
+}
+
+.container-fluid {
+  padding: 0px;
+}
+
+.mainImage {
+  width: 66%;
+  padding: 5%;
+}
+
+.header {
+  background-color: #9ddfd3;
+  color: #dbf6e9;
+  padding-bottom: 20px;
+}
+
+.headerH1 {
+  margin: 0px;
+  padding-top: 2%;
+}
+
+.figure {
+  margin: 0px;
+}
+
+.navDiv {
+  background-color: #9ddfd3;
+  color: #dbf6e9;
+  padding: 20px;
+}
+
+.aboutMeDiv {
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+  background-color: #dbf6e9;
+  color: #9ddfd3;
+  font-size: 1.5rem;
+  line-height: 3rem;
+}
+
+.carousel {
+  background-color: #9ddfd3;
+}
+
+.descriptionPainting {
+  font-weight: bold;
+  color: #dbf6e9;
+}
+
+.paintings {
+  width: 600px;
+  height: 600px;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+.paintingsH2 {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.carousel-item {
+  padding: 100px;
+}
+
+.videos {
+  width: 600px;
+  height: 600px;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+.footer {
+  background-color: #dbf6e9;
+  padding: 2%;
+  font-size: 1.2rem;
+}
+
+.footerIcon{
+  color: black;
+}
+.footerIcon:hover {
+  color: #dbf6e9;
+}
+
+.footerPara {
+padding-top: 10px;
+  color: #8f8f8f;
+}
+
+.footerIcon {
+  padding: 0 1%;
+}
